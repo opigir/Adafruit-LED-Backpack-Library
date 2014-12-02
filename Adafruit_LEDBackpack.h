@@ -18,7 +18,7 @@
   MIT license, all text above must be included in any redistribution
  ****************************************************/
 
-#include "Adafruit/Adafruit_GFX.h"
+#include "Adafruit_GFX/Adafruit_GFX.h"
 
 #define LED_ON 1
 #define LED_OFF 0
